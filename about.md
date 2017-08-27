@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is an attempt at writing down some ideas to help me get a more coherent thinking.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Topics covered will be centered around artificial intelligence, energy, metaphysics and the obscurantism of the Social Justice doctrine.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thirdbranchgate@gmail.com](mailto:thirdbranchgate@gmail.com)
